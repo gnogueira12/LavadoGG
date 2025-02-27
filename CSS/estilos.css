@@ -1,0 +1,25 @@
+.logo{
+width: 11%
+}
+
+.texto_diferente{
+    color: navy;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+/*Estilização da Seção Nosso Estabelecimento.*/
+.mapaGeral{
+    align-self: center;
+    padding-left:10%;
+    background-color: linear-gradient(#DC143C, #FFFFFF)
+}
+.mapaGeral p{
+    margin-left: 34%;
+}
+.mapaGeral h2{
+    margin-left: 35%;
+}
+.mapa{
+    margin-left: 25%;
+}
